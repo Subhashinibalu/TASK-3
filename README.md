@@ -8,8 +8,6 @@ I have created this repository to submit my task for the 3rd day of road map ses
 
 3.The objectcompare.js file contains the code for comparing two objects.
 
-4.The output folder consists of the screenshots of theoutput of the given tasks for 3rd day.
-
 Kindly check it.
 
              THANK YOU!
